@@ -1,9 +1,9 @@
- {
+s {
  "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "name": "Amoled Spider",
+      "author": "Suyash",
+      "url": "gs://wallrail.appspot.com/wall1.png",
       "collections": "featured,landscapes,people"
     },
     {
