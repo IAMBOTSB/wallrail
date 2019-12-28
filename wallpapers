@@ -17,7 +17,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Music2",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -25,7 +25,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Arrow up",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -33,7 +33,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Arrow down",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -41,7 +41,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Flaming Ball",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -49,7 +49,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Avicii 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -57,7 +57,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Kygo 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -65,7 +65,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Angry face",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -73,7 +73,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Face 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -81,7 +81,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Face 2",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -89,7 +89,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Assistant light",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -97,7 +97,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Assistant Dark",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -105,7 +105,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Floating Blocks",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -113,7 +113,7 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "X factor q",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
@@ -121,12 +121,149 @@
       "downloadable": true
     },
       {
-      "name": "Music1",
+      "name": "Heart light",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
       "dimensions": "3200x2560",
       "collections": "people,city",
       "downloadable": true
     }, 
-  ]
+{
+      "name": "Heart Dark",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Desktop 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Vector 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Sunrise",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+
+  ]{
+      "name": "Ball 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Bike 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Bike 2",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Punch 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Clock 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Exam Time 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Exam Time 2",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Lamp 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Music 3",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Heart 4",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+
+{
+      "name": "HeadPhones 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Vector 2",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
+{
+      "name": "Tea 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.jpg?token=AIUBR6UPTFH3HWWJVFGGXVC6BRRC6",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    }, 
 }
