@@ -29,20 +29,20 @@
       "collections": "Basics"
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+      "name": "Music 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Music1.jpg",
       "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
+      "collections": "Basics,Dark",
+      "downloadable": true
     },
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dark.png",
-      "name": "ShotC",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Music2.jpg",
+      "name": "Music 2",
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
+      "collections": "Basics,Dark"
     },
     {
       "name": "Wallsplash 1",
