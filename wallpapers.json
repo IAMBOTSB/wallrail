@@ -125,6 +125,14 @@
       "dimensions": "3200x2560",
       "copyright": "Unknown",
       "collections": "Basics"
-    }
+    },
+    {
+      "name":"Desktop",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cleansetup.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cleansetup.jpg",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      }
   ]
 }
