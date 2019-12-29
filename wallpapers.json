@@ -2,13 +2,13 @@
   "Collections": [
     {
       "name": "Light",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+      "preview_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png"
     },
     {
       "name": "Dark",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+      "preview_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dark.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dark.png"
     },
     {
       "name": "Vector",
@@ -38,7 +38,7 @@
     },
     {
       "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dark.png",
       "name": "ShotC",
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
