@@ -73,58 +73,58 @@
       "collections": "Dark"
     },
     {
-      "name": "Wallsplash 4",
+      "name": "Face 1",
       "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face1.jpg",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
+      "collections": "Basics,Vector"
     },
     {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+      "name": "Face 2",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face2.jpg",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
+      "collections": "Basics,Vector"
     },
     {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+      "name": "Red Ant",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/redspider.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/redspider.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
+      "collections": "Dark,Vector"
     },
     {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://via.placeholder.com/500",
+      "name": "Assistant Dark",
+      "author": SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantdark.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantdark.jpg",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
+      "collections": "Dark"
     },
     {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://via.placeholder.com/150",
+      "name": "Assistant Light",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantlight.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantlight.jpg",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "food"
+      "collections": "Light"
     },
     {
-      "name": "Webp Image",
+      "name": "Sunrise",
       "author": "unknown",
-      "url": "https://www.gstatic.com/webp/gallery/4.webp",
-      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sunrise.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sunrise.jpg",
       "dimensions": "3200x2560",
       "copyright": "Unknown",
-      "collections": "landscapes"
+      "collections": "Basics"
     }
   ]
 }
