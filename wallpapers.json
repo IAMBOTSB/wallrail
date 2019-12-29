@@ -45,32 +45,32 @@
       "collections": "Basics,Dark"
     },
     {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+      "name": "Wall 1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall1.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall1.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city",
+      "collections": "Dark",
       "featured": true
     },
     {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+      "name": "Wall 2",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall2.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall2.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "collections": "Dark"
     },
     {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://via.placeholder.com/450",
+      "name": "Wall 3",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall3.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall3.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
+      "collections": "Dark"
     },
     {
       "name": "Wallsplash 4",
