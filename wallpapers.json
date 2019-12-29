@@ -178,7 +178,7 @@
       "name":"Heart Light",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart2.png",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart2.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
       },
@@ -186,15 +186,7 @@
       "name":"Heart Dark",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart1.png",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
-      "dimensions":"3200x2560",
-      "collection":"Vector,Basics,Dark"
-      },
-     {
-      "name":"Avicii",
-      "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart1.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
       },
