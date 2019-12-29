@@ -149,6 +149,70 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"kygo",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kygo.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kygo.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"Bike 1",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"Bike2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"Heart Light",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"Heart Dark",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"Avicii",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+      "name":"Music 3",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"       
+      },
+     {
+      "name":"Music 4",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
       }
   ]
 }
