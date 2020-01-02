@@ -301,6 +301,62 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/beardman2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/beardman2.png",
       "dimensions":"3200x2560",
+      "collection":"Vector,Basics,light"
+      },
+     {
+     "name":"Be Kind",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Be Kind.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Be Kind.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      },
+     {
+     "name":"Desktop 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/desktop2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/desktop2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      },
+     {
+     "name":"Clock 1",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Clock1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Clock1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+     "name":"Exam Time 1",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      },
+     {
+     "name":"Exam Time 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      },
+     {
+     "name":"Gentalman",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/blackwhiteman.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/blackwhiteman.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+     "name":"Cybertruck",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tesla1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tesla1.png",
+      "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
       }
   ]
