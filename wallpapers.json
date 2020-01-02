@@ -205,6 +205,75 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
-      }
+      },
+     {
+      "name":"Tea 1",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      },
+     {
+      "name":"Tea 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,"
+      },
+     {
+      "name":"Blood Dark",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Blooddark.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Blooddark.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+    {
+      "name":"Blood Light",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bloodlight.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bloodlight.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Light"
+      },
+    {
+      "name":"DoubleX",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doubleX.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doubleX.jpg",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+    {
+      "name":"God 1 Dark",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganesh.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganesh.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     "name":"God 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sankar.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sankar.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+      },
+     "name":"Purple Girl",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     "name":"Hazard",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hazard.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hazard.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
   ]
 }
