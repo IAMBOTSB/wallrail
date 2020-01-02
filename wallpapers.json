@@ -81,6 +81,15 @@
       "copyright": "SB",
       "collections": "Basics,Vector"
     },
+     {
+      "name": "Face 3",
+      "author": "wallsplash",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face3.jpg",
+      "dimensions": "3200x2560",
+      "copyright": "SB",
+      "collections": "Basics,Vector,Dark"
+    },
     {
       "name": "Face 2",
       "author": "SB",
@@ -209,8 +218,8 @@
      {
       "name":"Tea 1",
       "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea1.png",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea1.png",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tea1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tea1.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics"
       },
