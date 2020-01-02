@@ -286,6 +286,22 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hazard1.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+      },
+     {
+     "name":"Batman",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batman.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batman.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+      },
+     {
+     "name":"Beardman",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/beardman2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/beardman2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
       }
   ]
 }
