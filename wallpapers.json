@@ -357,6 +357,21 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjimin2.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
-      }
+      },
+     {
+     "name":"Rm BTS",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RmBts.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RmBts.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"J-Hope BTS",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jhopebts.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jhopebts.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
   ]
 }
