@@ -373,6 +373,22 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jhopebts.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Friends",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Friends Couch",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
      }
   ]
 }
