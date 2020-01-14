@@ -381,7 +381,7 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
-       "featured": true
+      "featured": true,
      },
     {
      "name":"Friends Couch",
@@ -438,7 +438,7 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman1-1.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
-       "featured": true
+      "featured": true,
      },
     {
      "name":"Night city",
