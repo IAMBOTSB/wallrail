@@ -453,6 +453,14 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/runner1.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Expecto Patronum",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Harrypotter1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Harrypotter1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
      }
   ]
 }
