@@ -421,6 +421,22 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl4.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Ironman",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Ironman-2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman1-1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman1-1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
      }
   ]
 }
