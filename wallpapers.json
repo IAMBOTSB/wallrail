@@ -445,6 +445,14 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/nightcity-1.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Runner",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/runner1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/runner1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
      }
   ]
 }
