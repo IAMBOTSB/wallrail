@@ -477,6 +477,54 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl5.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Boat",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Boat.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Boat.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Bob Marley",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bob2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bob2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Book",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Rose",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Rose.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Rose.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Simple Any 1",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Simple Any 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
      }
   ]
 }
