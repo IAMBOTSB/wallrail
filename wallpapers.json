@@ -23,6 +23,38 @@
   ],
   "Wallpapers": [
      {
+     "name":"King of the Jungle",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"King of the Jungle-2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Martin Garix",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Martin Garix.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Martin Garix.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Burning Ball",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/flame1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/flame1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Gym Mood",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Gymlight.png",
