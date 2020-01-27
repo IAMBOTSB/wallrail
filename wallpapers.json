@@ -45,10 +45,10 @@
       "collections": "Basics,Dark"
     },
     {
-      "name": "Wall 1",
+      "name": "Violet Mountain",
       "author": "SB",
-      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall1.png",
-      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall1.png",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VoiletMountain.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VoiletMountain.png",
       "dimensions": "3200x2560",
       "copyright": "SB",
       "collections": "Dark",
@@ -526,7 +526,14 @@
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
      },
-    
-
+      {
+      "name": "Anonymous",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall1.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall1.png",
+      "dimensions": "3200x2560",
+      "copyright": "SB",
+      "collections": "Dark",
+    },
   ]
 }
