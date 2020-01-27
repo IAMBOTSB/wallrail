@@ -47,8 +47,8 @@
     {
       "name": "Violet Mountain",
       "author": "SB",
-      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VoiletMountain.png",
-      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VoiletMountain.png",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
       "dimensions": "3200x2560",
       "copyright": "SB",
       "collections": "Dark",
@@ -335,7 +335,7 @@
       "collection":"Vector,Basics"
       },
      {
-     "name":"Gentalman",
+     "name":"Gentleman",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/blackwhiteman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/blackwhiteman.png",
