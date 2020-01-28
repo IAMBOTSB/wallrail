@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
      {
+     "name":"Venom",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"King of the Jungle",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion.png",
