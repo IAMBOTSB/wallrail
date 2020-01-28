@@ -221,10 +221,10 @@
       "collections": "Basics,Dark"
     },
     {
-      "name": "Violet Mountain",
+      "name": "Friends",
       "author": "SB",
-      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
-      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
       "dimensions": "3200x2560",
       "copyright": "SB",
       "collections": "Dark",
@@ -551,10 +551,10 @@
       "collection":"Vector,Basics,Dark"
      },
     {
-     "name":"Friends",
+     "name":"Violet Mountain",
       "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"      
      },
