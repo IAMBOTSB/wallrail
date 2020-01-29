@@ -22,6 +22,14 @@
     }
   ],
   "Wallpapers": [
+    {
+     "name":"Lazy Panda",
+      "author":"VKS",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lazy.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallraill/master/lazy.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
      {
      "name":"Venom",
       "author":"SB",
