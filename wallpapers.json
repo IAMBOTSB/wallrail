@@ -22,6 +22,62 @@
     }
   ],
   "Wallpapers": [
+     {
+     "name":"Captain America",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/captainamerica.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/captainamerica.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Joker inside Moon",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ghost6.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ghost6.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Ninja",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Ninja 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Spiderman",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/spiderman.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/spiderman.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Raging Wolf",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wolf.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wolf.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {   
+     "name":"Venom",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
     {
      "name":"Lazy Panda",
       "author":"VKS",
