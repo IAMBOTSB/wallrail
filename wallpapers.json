@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
      {
+     "name":"Thor",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor new-2.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor new-2.jpg",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Captain America",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/captainamerica.png",
