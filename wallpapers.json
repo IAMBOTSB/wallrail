@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
      {
+     "name":"Just Snap It",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/snap.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/snap.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Code For Life",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/code.png",
