@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
      {
+     "name":"Roman reigns",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/roman.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/roman.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Simple Vector",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
