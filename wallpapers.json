@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
      {
+     "name":"Simple Vector",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Just Snap It",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/snap.png",
