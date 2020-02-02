@@ -23,6 +23,22 @@
   ],
   "Wallpapers": [
      {
+     "name":"Code For Life",
+      "author":"RAM",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/code.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/new code.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Money Heist",
+      "author":"RAM",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheist3.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheist3.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Thor",
       "author":"RAM",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/new thor-2.jpg",
