@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
     {
+     "name":"Welcome to karakin",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karakin.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karakin.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
      "name":"Heart",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/newheart2.png",
