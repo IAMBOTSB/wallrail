@@ -22,6 +22,62 @@
     }
   ],
   "Wallpapers": [
+     {
+     "name":"India",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/india.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/india.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Talking Hat",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/TalkingHat.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/TalkingHat.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Crazy Girl",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/funkygirl2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/funkygirl2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },   
+     {
+     "name":"Psycho",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/psycho.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kpsycho.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Get Lost",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lost.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lost.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"VEctor Girl",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/whitegirl.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/whitegirl.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Light"
+     },
+     {
+     "name":"Hope",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hope2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hope2.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
     {
      "name":"Welcome to karakin",
       "author":"SB",
