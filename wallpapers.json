@@ -420,7 +420,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "dimensions":"3200x2560",
-      "collection":"Vector,Basics,Dark"
+      "collection":"Vector,Basics,Dark",
       "featured": true
      },
      {
@@ -500,7 +500,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
       "dimensions": "3200x2560",
       "copyright": "SB",
-      "collections": "Dark",
+      "collections": "Dark"      
     },
     {
       "name": "Wall 2",
