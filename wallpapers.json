@@ -47,18 +47,18 @@
       "collection":"Vector,Basics,Dark"
      },
      {
-     "name":"JUNGKOOK",
-      "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
-      "dimensions":"3200x2560",
-      "collection":"Vector,Basics,Dark"
-     },
-     {
      "name":"JIN",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjin.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjin.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Deathly Hallows",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deathlyhallows.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deathlyhallows.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
      },
