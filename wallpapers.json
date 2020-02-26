@@ -23,6 +23,46 @@
   ],
   "Wallpapers": [
      {
+     "name":"JUNGKOOK",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"V",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsv.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsv.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"SUGA",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btssuga.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btssuga.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"JUNGKOOK",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"JIN",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjin.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjin.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
      "name":"Harry Potter All ",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrypotter3.png",
@@ -103,7 +143,7 @@
       "collection":"Vector,Basics,Dark"
      },
      {
-     "name":"VEctor Girl",
+     "name":"Vector Girl",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/whitegirl.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/whitegirl.png",
@@ -381,6 +421,7 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "dimensions":"3200x2560",
       "collection":"Vector,Basics,Dark"
+       "featured": true
      },
      {
      "name":"Purple Girl 2",
@@ -460,7 +501,6 @@
       "dimensions": "3200x2560",
       "copyright": "SB",
       "collections": "Dark",
-      "featured": true
     },
     {
       "name": "Wall 2",
