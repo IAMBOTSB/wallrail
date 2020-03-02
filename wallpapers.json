@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
      {
+     "name":"Americantruck",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Americantruck.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Americantruck.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics"
+     },
+     {
      "name":"JUNGKOOK",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
