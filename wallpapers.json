@@ -22,6 +22,30 @@
     }
   ],
   "Wallpapers": [
+    {
+     "name":"Music is >-<",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/something1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/something1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Aveda Kedavra",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avedakedvra.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avedakedvra.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Android",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/android1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/android1.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
      {
      "name":"Kittens",
       "author":"SB",
