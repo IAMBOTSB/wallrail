@@ -356,7 +356,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wolf.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wolf.png",
       "dimensions":"3200x2560",
-      "collection":"Vector,Basics,Dark"
+      "collection":"Vector,Basics,Dark",
       "featured": true
      },
     {   
@@ -501,7 +501,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "dimensions":"3200x2560",
-      "collection":"Vector,Basics,Dark",     
+      "collection":"Vector,Basics,Dark"     
      },
      {
      "name":"Purple Girl 2",
