@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
     {
+     "name":"Devil",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/devil.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/devil.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
      "name":"Unicorn",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unicorn.png",
