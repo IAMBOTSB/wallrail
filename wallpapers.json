@@ -23,6 +23,38 @@
   ],
   "Wallpapers": [
     {
+     "name":"Unicorn",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unicorn.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unicorn.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"The Punisher",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thepunisher.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thepunisher.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Infected",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/infected.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/infected.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"GOKU",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dragonball.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dragonball.png",
+      "dimensions":"3200x2560",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
      "name":"Smooth Criminal",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200315_173908.png",
