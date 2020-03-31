@@ -22,6 +22,54 @@
     }
   ],
   "Wallpapers": [
+     {
+     "name":"RM-BTS",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/downrmbts.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/downrmbts.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Shroud",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Hufflepuff",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hphp.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hphp.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Ravenclawr",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rvhp.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rvhp.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Slytherin",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/syhp.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/syhp.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Gryffindor",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gfhp.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gfhp.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
     {
      "name":"Devil",
       "author":"SB",
