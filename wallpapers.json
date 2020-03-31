@@ -22,6 +22,14 @@
     }
   ],
   "Wallpapers": [
+    {
+     "name":"Life",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/life.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/life.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
      {
      "name":"RM-BTS",
       "author":"SB",
