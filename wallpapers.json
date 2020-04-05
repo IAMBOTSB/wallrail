@@ -22,6 +22,42 @@
     }
   ],
   "Wallpapers": [
+
+    {
+     "name":"moneyheistnew",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"karma type-3",
+      "author":"vks",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma14.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma14.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"karma type-2",
+      "author":"vks",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma3.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma3.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"karma type-1",
+      "author":"vks",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma12.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma12.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
     {
      "name":"Life",
       "author":"SB",
@@ -160,7 +196,7 @@
       "collection":"Vector,Basics,Dark"
      },
     {
-     "name":"CS-GO KNIFE",
+     "name":"CS-GO KNIFE", 
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200310_172944.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200310_172944.png",
