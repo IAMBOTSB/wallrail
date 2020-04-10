@@ -22,9 +22,40 @@
     }
   ],
   "Wallpapers": [
-
     {
-     "name":"moneyheistnew",
+     "name":"One Punch Man B/W",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Popeye",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/popeye.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/popeye.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics"
+     },
+    {
+     "name":"One Punch Man",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman1.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Hacker",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"La Casa De Papel",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
@@ -40,7 +71,6 @@
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
      },
-
     {
      "name":"karma type-2",
       "author":"vks",
@@ -49,7 +79,6 @@
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
      },
-
     {
      "name":"karma type-1",
       "author":"vks",
@@ -80,7 +109,8 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
       "dimensions":"1800x3900",
-      "collection":"Vector,Basics,Dark"
+      "collection":"Vector,Basics,Dark",
+      "featured": true
      },
     {
      "name":"Hufflepuff",
@@ -160,8 +190,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200315_173908.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200315_173908.png",
       "dimensions":"1800x3900",
-      "collection":"Vector,Basics,Dark",
-      "featured": true
+      "collection":"Vector,Basics,Dark"      
      },
     {
      "name":"Joker",
