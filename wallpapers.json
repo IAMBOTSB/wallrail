@@ -23,6 +23,30 @@
   ],
   "Wallpapers": [
     {
+     "name":"NARUTO",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/NARUTO.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/NARUTO.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"MATH",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/MATH.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/MATH.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"v",
+      "author":"vks",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/v.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/v.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
      "name":"One Punch Man B/W",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
