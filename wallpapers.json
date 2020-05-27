@@ -22,6 +22,59 @@
     }
   ],
   "Wallpapers": [
+
+    {
+     "name":"social2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/socialmedia.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/socialmedia.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"skull",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skullnew.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skullnew.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"socail",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/social2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/social2.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"sherlock homes",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Sherlock.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Sherlock.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"doodleart1",
+      "author":"vks",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefullscreen.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefullscreen.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    
+    {
+     "name":"doodleart",
+      "author":"vks",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
     {
      "name":"NARUTO",
       "author":"SB",
