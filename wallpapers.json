@@ -106,7 +106,8 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
       "dimensions":"1800x3900",
-      "collection":"Vector,Basics,Dark"
+      "collection":"Vector,Basics,Dark",
+      "featured": true
      },
     {
      "name":"NARUTO",
@@ -219,8 +220,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
       "dimensions":"1800x3900",
-      "collection":"Vector,Basics,Dark",
-      "featured": true
+      "collection":"Vector,Basics,Dark"
      },
     {
      "name":"Hufflepuff",
