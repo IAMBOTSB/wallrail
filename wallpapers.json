@@ -22,6 +22,39 @@
     }
   ],
   "Wallpapers": [
+     {
+     "name":"Omen",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Harry Potter",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"shinchan 2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"shinchan",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
 
     {
      "name":"social2",
