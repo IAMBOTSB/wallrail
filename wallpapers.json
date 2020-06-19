@@ -22,6 +22,14 @@
     }
   ],
   "Wallpapers": [
+    {
+     "name":"We are not 7 With You",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics"
+     },
      {
      "name":"Omen",
       "author":"SB",
