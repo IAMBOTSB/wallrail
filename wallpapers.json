@@ -23,6 +23,14 @@
   ],
   "Wallpapers": [
     {
+     "name":"Thor",
+      "author":"ram",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor1.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor1.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics"
+    },
+    {
      "name":"We are not 7 With You",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
