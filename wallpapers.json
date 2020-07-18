@@ -1,27 +1,4 @@
-{
-  "Collections": [
-    {
-      "name": "Light",
-      "preview_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png"
-    },
-    {
-      "name": "Dark",
-      "preview_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dark.png",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dark.png"
-    },
-    {
-      "name": "Vector",
-      "preview_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png"
-    },
-    {
-      "name": "Basics",
-      "preview_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/light.png"
-    }
-  ],
-  "Wallpapers": [
+[
     {
      "name":"THOR",
       "author":"ram",
@@ -1237,9 +1214,6 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends1.png",
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
-     },
-  
-    
-    
-  ]
-}
+     }
+   ]
+
