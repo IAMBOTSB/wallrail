@@ -1,16 +1,47 @@
 [
     {
      "name":"THOR",
-      "author":"ram",
       "author":"RAM",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics"
+    },
+    {
+     "name":"We are not 7 With You",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics"
+     },
+     {
+     "name":"Omen",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+     {
+     "name":"Harry Potter",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    
+    {
+     "name":"Ryuk",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200531_211531.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200531_211531.png",
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
      },
      {
      "name":"shinchan 2",
-      "author":"SB",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
@@ -19,43 +50,134 @@
      },
     {
      "name":"shinchan",
-      "author":"SB",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
      },
+
+
+    {
+     "name":"social2",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/socialmedia.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/socialmedia.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"skull",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skullnew.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skullnew.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"socail",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/social2.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/social2.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+
+    {
+     "name":"sherlock homes",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Sherlock.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Sherlock.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
     {
      "name":"doodleart1",
-      "author":"vks",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefullscreen.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefullscreen.jpg",
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
-
+     },
+    
     {
      "name":"doodleart",
-      "author":"vks",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark",
+      "featured": true
+     },
+    {
+     "name":"NARUTO",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/naruto.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/naruto.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"MATH",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/maths wallpaper.png",     
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/maths wallpaper.png",
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
      },
     {
      "name":"v",
-      "author":"vks",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vaish.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vaish.png",
       "dimensions":"1800x3900",
       "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"One Punch Man B/W",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Popeye",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/popeye.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/popeye.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics"
+     },
+    {
+     "name":"One Punch Man",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman1.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman1.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"Hacker",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
+    {
+     "name":"La Casa De Papel",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
+      "dimensions":"1800x3900",
+      "collection":"Vector,Basics,Dark"
+     },
 
     {
      "name":"karma type-3",
-      "author":"vks",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma14.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma14.png",
@@ -64,7 +186,6 @@
      },
     {
      "name":"karma type-2",
-      "author":"vks",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma3.png",
@@ -73,7 +194,6 @@
      },
     {
      "name":"karma type-1",
-      "author":"vks",
       "author":"VKS",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma12.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma12.png",
