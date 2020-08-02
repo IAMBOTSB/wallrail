@@ -1,4 +1,20 @@
 [
+     {
+     "name":"Doremon",
+      "author":"VKS",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doremon.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doremon.png",
+      "dimensions":"1800x3900",
+      "collections":"Cartoons"
+    },
+     {
+     "name":"Cypher",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cyphervalo.png",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cyphervalo.png",
+      "dimensions":"1800x3900",
+      "collections":"Games"
+    },
     {
      "name":"THOR",
       "author":"RAM",
