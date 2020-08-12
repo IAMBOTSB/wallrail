@@ -1,4 +1,36 @@
 [
+     {
+     "name":"Lord Krishna Dark",
+      "author":"VKS",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna.jpg",
+      "dimensions":"1800x3900",
+      "collections":"God"
+    },
+     {
+     "name":"Lord Krishna Light",
+      "author":"VKS",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna2.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna2.jpg",
+      "dimensions":"1800x3900",
+      "collections":"God"
+    },
+     {
+     "name":"Silence",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/slence.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silence.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Quotes"
+    },
+    {
+     "name":"Sorry",
+      "author":"RAM",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sorry.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sorry.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Quotes"
+    },
 {
      "name":"Doodles Dark",
       "author":"VKS",
