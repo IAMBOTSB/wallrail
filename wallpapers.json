@@ -16,6 +16,14 @@
       "collections":"God"
     },
      {
+     "name":"Little Krishna",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishnasmall.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishnasmall.jpg",
+      "dimensions":"1800x3900",
+      "collections":"God"
+    },
+     {
      "name":"Lord Krishna Dark",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna.jpg",
@@ -24,12 +32,44 @@
       "collections":"God"
     },
      {
+     "name":"Your Name",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname2.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname2.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Anime"
+    },
+     {
+     "name":"Quote 4",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote4.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote4.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Quotes"
+    },
+     {
      "name":"Lord Krishna Light",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna2.jpg",
       "dimensions":"1800x3900",
       "collections":"God"
+    },
+     {
+     "name":"Dhoni",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dhonirocks.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dhonirocks.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Featured"
+    },
+     {
+     "name":"Your Name",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Anime"
     },
      {
      "name":"Silence",
@@ -128,8 +168,6 @@
       "dimensions":"1800x3900",
       "collections":"Cartoons"
      },
-
-
     {
      "name":"social2",
       "author":"SB",
