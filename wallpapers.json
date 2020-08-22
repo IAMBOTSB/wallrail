@@ -23,6 +23,22 @@
       "dimensions":"1800x3900",
       "collections":"God"
     },
+      {
+     "name":"Hermione",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Hermione.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Hermione.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Movies"
+    },
+      {
+     "name":"Harry - Hermione",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hpboth.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hpboth.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Movies"
+    },
      {
      "name":"Lord Krishna Dark",
       "author":"SB",
@@ -30,6 +46,22 @@
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna.jpg",
       "dimensions":"1800x3900",
       "collections":"God"
+    },
+      {
+     "name":"A silent Voice Light",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentlight.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentlight.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Anime"
+    },
+      {
+     "name":"A Silent Voice Dark",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentdark.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentdark.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Anime"
     },
      {
      "name":"Your Name",
