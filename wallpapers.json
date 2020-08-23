@@ -7,6 +7,22 @@
       "dimensions":"1800x3900",
       "collections":"Doodles"
     },
+     {
+     "name":"Uchiha Clan",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uchihaclan.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/uchihaclan.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Anime"
+    },
+     {
+     "name":"Cute Panda",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cutepanda.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cutepanda.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Featured"
+    },
       {
      "name":"God Hanuman",
       "author":"SB",
