@@ -16,6 +16,13 @@
       "collections":"Doodles"
     },
       {
+     "name":"Mr Bean",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Mrbean.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Mrbean.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Cartoon"
+      {
      "name":"Ganesha Dark",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshdark.jpg",
@@ -23,6 +30,13 @@
       "dimensions":"1800x3900",
       "collections":"God"
     },
+      {
+     "name":"Lord Shiva",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lordshiva.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lordshiva.jpg",
+      "dimensions":"1800x3900",
+      "collections":"God"
     {
      "name":"Uchiha Eyes Light",
       "author":"SB",
