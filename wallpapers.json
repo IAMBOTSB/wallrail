@@ -8,6 +8,30 @@
       "collections":"Doodles"
     },
      {
+     "name":"Google",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/googlewall.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/googlewall.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark"
+    },
+     {
+     "name":"Lord Vishnu",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lordvishnu.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lordvishnu.jpg",
+      "dimensions":"1800x3900",
+      "collections":"God"
+    },
+     {
+     "name":"Among Us",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/amongus.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/amongus.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Games"
+    },
+     {
      "name":"Bot",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bot.jpg",
