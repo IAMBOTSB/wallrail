@@ -8,6 +8,38 @@
       "collections":"Doodles"
     },
      {
+     "name":"Guitar",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/guitar.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/guitar.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Music"
+    },
+     {
+     "name":"Anime",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animera.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animera.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Anime"
+    },
+     {
+     "name":"Royal Enfield",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RE.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RE.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured"
+    },
+     {
+     "name":"Royal Enfield(for Lockscreen)",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/REDown.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/REDown.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured"
+    },
+     {
      "name":"Lamborghini Diablo",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lamborghiniglitched.jpg",
