@@ -8,10 +8,26 @@
       "collections":"Doodles"
     },
      {
-     "name":"Guitar",
+     "name":"Deadpool",
       "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/guitar.jpg",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/guitar.jpg",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Movies"
+    },
+     {
+     "name":"OutRun",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/outrun.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/outrun.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured"
+    },
+     {
+     "name":"American Muscle",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/musclercar.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/musclecar.jpg",
       "dimensions":"1800x3900",
       "collections":"Dark,Featured,Music"
     },
