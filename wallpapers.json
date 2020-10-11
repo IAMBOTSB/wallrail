@@ -1192,7 +1192,7 @@
      {
      "name":"Book",
       "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1.png",
       "dimensions":"1800x3900",
       "collections":"Vector,Basics,Dark"
@@ -1357,7 +1357,7 @@
       "collections":"Vector,Basics,Dark"
       },
      {
-      "name":"Bike2",
+      "name":"Bike 2",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike2.png",
