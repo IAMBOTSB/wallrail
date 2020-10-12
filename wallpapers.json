@@ -8,6 +8,38 @@
       "collections":"Doodles"
     },
      {
+     "name":"Tokyo - Money Heist",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Web Series"
+    },
+     {
+     "name":"Professor - Money Heist",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Professor.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Professor.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Web Series"
+    },
+     {
+     "name":"Cool Sunset",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/coolsunset.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/coolsunset.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured"
+    },
+     {
+     "name":"Warm Sunset",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/warmsunset.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/warmsunsetjpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Movies"
+    },
+     {
      "name":"Deadpool",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
