@@ -24,6 +24,14 @@
       "collections":"Dark,Featured,Web Series"
     },
      {
+     "name":"Deadpool",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Movies"
+    },
+     {
      "name":"Cool Sunset",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/coolsunset.jpg",
@@ -36,14 +44,6 @@
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/warmsunset.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/warmsunset.jpg",
-      "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Movies"
-    },
-     {
-     "name":"Deadpool",
-      "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
       "dimensions":"1800x3900",
       "collections":"Dark,Featured,Movies"
     },
