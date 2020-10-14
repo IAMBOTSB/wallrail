@@ -8,6 +8,14 @@
       "collections":"Doodles"
     },
      {
+     "name":"Money Heist - Tokyo",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Web Series"
+    },
+     {
      "name":"Call of Duty Warzone",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty.jpg",
@@ -36,14 +44,6 @@
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe2.jpg",
-      "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Web Series"
-    },
-     {
-     "name":"Money Heist - Tokyo",
-      "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
       "dimensions":"1800x3900",
       "collections":"Dark,Featured,Web Series"
     },
