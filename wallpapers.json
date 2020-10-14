@@ -24,20 +24,20 @@
       "collections":"Dark,Games"
     },
      {
-     "name":"Call of Duty Warzone",
-      "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
-      "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Games"
-    },
-     {
      "name":"Central Perk",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe.jpg",
       "dimensions":"1800x3900",
       "collections":"Dark,Featured,Web Series"
+    },
+     {
+     "name":"Call of Duty Warzone",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Games"
     },
      {
      "name":"Central Perk",
