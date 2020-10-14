@@ -8,10 +8,41 @@
       "collections":"Doodles"
     },
      {
-     "name":"Tokyo - Money Heist",
+     "name":"Call of Duty Warzone",
       "author":"SB",
-      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
-      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Games"
+    },
+     {
+     "name":"Call of Duty Warzone",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Web Series"
+    },
+     {
+     "name":"Central Perk",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Web Series"
+    },
+     {
+     "name":"Central Perk",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe2.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe2.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Web Series"
+    },
+     "name":"Money Heist - Tokyo",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tokyo.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tokyo.jpg",
       "dimensions":"1800x3900",
       "collections":"Dark,Featured,Web Series"
     },
