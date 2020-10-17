@@ -8,6 +8,30 @@
       "collections":"Doodles"
     },
      {
+     "name":"Anime Girl",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animegirl.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animegirl.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Anime"
+    },
+     {
+     "name":"Skull",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skull.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skull.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured"
+    },
+     {
+     "name":"Sonic",
+      "author":"SB",
+      "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sonic.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sonic.jpg",
+      "dimensions":"1800x3900",
+      "collections":"Dark,Featured,Movies"
+    },
+     {
      "name":"Money Heist - Tokyo",
       "author":"SB",
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
