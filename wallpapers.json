@@ -5,7 +5,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlecolorful.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlecolorful.jpg",
       "dimensions":"1800x3900",
-      "collections":"Doodles"
+      "collections":"All,Doodles"
     },
      {
      "name":"Rogue Company",
@@ -13,7 +13,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rogue1.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rogue1.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Games"
+      "collections":"All,Dark,Featured,Games"
     },
      {
      "name":"Dima - Rogue Company",
@@ -21,7 +21,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rogue3.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rogue3.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Games"
+      "collections":"All,Dark,Featured,Games"
     },
      {
      "name":"Glitch - Rogue Company",
@@ -29,7 +29,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rogue2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rogue2.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Games"
+      "collections":"All,Dark,Featured,Games"
     },
      {
      "name":"Anime Girl",
@@ -37,7 +37,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animegirl.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animegirl.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Anime"
+      "collections":"All,Dark,Featured,Anime"
     },
      {
      "name":"Skull",
@@ -45,7 +45,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skull.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skull.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
      {
      "name":"Sonic",
@@ -53,7 +53,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sonic.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sonic.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Movies"
+      "collections":"All,Dark,Featured,Movies"
     },
      {
      "name":"Money Heist - Tokyo",
@@ -61,7 +61,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tokyo.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Web Series"
+      "collections":"All,Dark,Featured,Web Series"
     },
      {
      "name":"Call of Duty Warzone",
@@ -69,7 +69,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Games"
+      "collections":"All,Dark,Games"
     },
      {
      "name":"Central Perk",
@@ -77,7 +77,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Web Series"
+      "collections":"All,Dark,Featured,Web Series"
     },
      {
      "name":"Call of Duty Warzone",
@@ -85,7 +85,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/callofduty2.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Games"
+      "collections":"All,Dark,Featured,Games"
     },
      {
      "name":"Central Perk",
@@ -93,7 +93,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friendscafe2.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Web Series"
+      "collections":"All,Dark,Featured,Web Series"
     },
      {
      "name":"Professor - Money Heist",
@@ -101,7 +101,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Professor.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Professor.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Web Series"
+      "collections":"All,Dark,Featured,Web Series"
     },
      {
      "name":"Deadpool",
@@ -109,7 +109,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deadpool.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Movies"
+      "collections":"All,Dark,Featured,Movies"
     },
      {
      "name":"Cool Sunset",
@@ -117,7 +117,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/coolsunset.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/coolsunset.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
      {
      "name":"Warm Sunset",
@@ -125,7 +125,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/warmsunset.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/warmsunset.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Movies"
+      "collections":"All,Dark,Featured,Movies"
     },
      {
      "name":"OutRun",
@@ -133,7 +133,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/outrun.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/outrun.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
      {
      "name":"American Muscle",
@@ -141,7 +141,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/musclercar.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/musclecar.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Music"
+      "collections":"All,Dark,Featured,Music"
     },
      {
      "name":"Demon Slayer",
@@ -149,7 +149,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animera.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animera.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured,Anime"
+      "collections":"All,Dark,Featured,Anime"
     },
      {
      "name":"Royal Enfield",
@@ -157,7 +157,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RE.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RE.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
      {
      "name":"Royal Enfield(for Lockscreen)",
@@ -165,7 +165,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/REDown.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/REDown.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
      {
      "name":"Lamborghini Diablo",
@@ -173,7 +173,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lamborghiniglitched.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lamborghiniglitched.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
      {
      "name":"Google",
@@ -181,7 +181,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/googlewall.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/googlewall.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark"
+      "collections":"All,Dark"
     },
      {
      "name":"Lord Vishnu",
@@ -189,7 +189,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lordvishnu.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lordvishnu.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
      {
      "name":"Among Us",
@@ -197,7 +197,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/amongus.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/amongus.jpg",
       "dimensions":"1800x3900",
-      "collections":"Games"
+      "collections":"All,Games"
     },
      {
      "name":"Bot",
@@ -205,7 +205,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bot.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bot.jpg",
       "dimensions":"1800x3900",
-      "collections":"Light"
+      "collections":"All,Light"
     },
      {
      "name":"Chilling",
@@ -213,7 +213,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl10.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl10.jpg",
       "dimensions":"1800x3900",
-      "collections":"Doodles"
+      "collections":"All,Doodles"
     },
      {
      "name":"Shikamaru",
@@ -221,7 +221,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shikamaru.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shikamaru.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
      {
      "name":"Doodles everywhere",
@@ -229,7 +229,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefull.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefull.jpg",
       "dimensions":"1800x3900",
-      "collections":"Doodles"
+      "collections":"All,Doodles"
     },
       {
      "name":"Mr Bean",
@@ -237,7 +237,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Mrbean.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Mrbean.jpg",
       "dimensions":"1800x3900",
-      "collections":"Cartoon"
+      "collections":"All,Cartoon"
       },
       {
      "name":"Ganesha Dark",
@@ -245,7 +245,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshdark.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshdark.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
       {
      "name":"Lord Shiva",
@@ -253,7 +253,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lordshiva.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Lordshiva.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
       },
     {
      "name":"Uchiha Eyes Light",
@@ -261,7 +261,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/firegun.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/firegun.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
       {
      "name":"Ganesha Light",
@@ -269,7 +269,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshlight.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshlight.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
       {
      "name":"Uchiha Eyes Dark",
@@ -277,7 +277,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/firegun.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/firegun.png",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
       {
      "name":"Bleding Eyes",
@@ -285,7 +285,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bleedingeye.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bleedingeye.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark,Featured"
+      "collections":"All,Dark,Featured"
     },
       {
      "name":"Kakashi Dark",
@@ -293,7 +293,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kakashiblack.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kakashiblack.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
       {
      "name":"Kakashi Light",
@@ -301,7 +301,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Kakashilight.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Kakashilight.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
      {
      "name":"Uchiha Clan",
@@ -309,7 +309,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uchihaclan.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uchihaclan.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
      {
      "name":"Cute Panda",
@@ -317,7 +317,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cutepanda.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cutepanda.jpg",
       "dimensions":"1800x3900",
-      "collections":"Featured"
+      "collections":"All,Featured"
     },
       {
      "name":"God Hanuman",
@@ -325,7 +325,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hanuman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hanuman.png",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
      {
      "name":"Little Krishna",
@@ -333,7 +333,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishnasmall.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishnasmall.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
       {
      "name":"Hermione",
@@ -341,7 +341,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Hermione.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Hermione.jpg",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
     },
       {
      "name":"Harry - Hermione",
@@ -349,7 +349,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hpboth.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hpboth.jpg",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
     },
      {
      "name":"Lord Krishna Dark",
@@ -357,7 +357,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
       {
      "name":"A silent Voice Light",
@@ -365,7 +365,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentlight.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentlight.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
       {
      "name":"A Silent Voice Dark",
@@ -373,7 +373,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentdark.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silentdark.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
      {
      "name":"Your Name",
@@ -381,7 +381,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname2.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
      {
      "name":"Quote 4",
@@ -389,7 +389,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote4.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote4.jpg",
       "dimensions":"1800x3900",
-      "collections":"Quotes"
+      "collections":"All,Quotes"
     },
      {
      "name":"Lord Krishna Light",
@@ -397,7 +397,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/krishna2.jpg",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
     },
      {
      "name":"Dhoni",
@@ -405,7 +405,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dhonirocks.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dhonirocks.jpg",
       "dimensions":"1800x3900",
-      "collections":"Featured"
+      "collections":"All,Featured"
     },
      {
      "name":"Your Name",
@@ -413,7 +413,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yourname.jpg",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
     },
      {
      "name":"Silence",
@@ -421,7 +421,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/slence.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/silence.jpg",
       "dimensions":"1800x3900",
-      "collections":"Quotes"
+      "collections":"All,Quotes"
     },
     {
      "name":"Sorry",
@@ -429,7 +429,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sorry.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sorry.jpg",
       "dimensions":"1800x3900",
-      "collections":"Quotes"
+      "collections":"All,Quotes"
     },
 {
      "name":"Doodles Dark",
@@ -437,7 +437,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack2.jpg",
       "dimensions":"1800x3900",
-      "collections":"Doodles"
+      "collections":"All,Doodles"
     },
      {
      "name":"Doremon",
@@ -445,7 +445,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doremon.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doremon.png",
       "dimensions":"1800x3900",
-      "collections":"Cartoons"
+      "collections":"All,Cartoons"
     },
      {
      "name":"Cypher",
@@ -453,7 +453,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cyphervalo.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cyphervalo.png",
       "dimensions":"1800x3900",
-      "collections":"Games"
+      "collections":"All,Games"
     },
     {
      "name":"THOR",
@@ -461,7 +461,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor.jpg",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
     },
     {
      "name":"We are not 7 With You",
@@ -469,7 +469,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsnew.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"Omen",
@@ -477,7 +477,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
       "dimensions":"1800x3900",
-      "collections":"Games"
+      "collections":"All,Games"
      },
      {
      "name":"Harry Potter",
@@ -485,7 +485,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
      },
     
     {
@@ -494,7 +494,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200531_211531.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200531_211531.png",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
      },
      {
      "name":"shinchan 2",
@@ -502,7 +502,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
       "dimensions":"1800x3900",
-      "collections":"Cartoons"
+      "collections":"All,Cartoons"
      },
     {
      "name":"shinchan",
@@ -510,7 +510,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
       "dimensions":"1800x3900",
-      "collections":"Cartoons"
+      "collections":"All,Cartoons"
      },
     {
      "name":"social2",
@@ -518,7 +518,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/socialmedia.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/socialmedia.png",
       "dimensions":"1800x3900",
-      "collections":"Basics"
+      "collections":"All,Basics"
      },
 
     {
@@ -527,7 +527,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skullnew.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/skullnew.jpg",
       "dimensions":"1800x3900",
-      "collections":"Dark"
+      "collections":"All,Dark"
      },
 
     {
@@ -536,7 +536,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/social2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/social2.png",
       "dimensions":"1800x3900",
-      "collections":"Basics"
+      "collections":"All,Basics"
      },
 
     {
@@ -545,7 +545,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Sherlock.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Sherlock.png",
       "dimensions":"1800x3900",
-      "collections":"Web Series"
+      "collections":"All,Web Series"
      },
     {
      "name":"doodleart1",
@@ -553,7 +553,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefullscreen.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlefullscreen.jpg",
       "dimensions":"1800x3900",
-      "collections":"Doodles"
+      "collections":"All,Doodles"
      },
     
     {
@@ -562,7 +562,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
       "dimensions":"1800x3900",
-      "collections":"Doodles"
+      "collections":"All,Doodles"
      },
     {
      "name":"NARUTO",
@@ -570,7 +570,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/naruto.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/naruto.png",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
      },
     {
      "name":"MATH",
@@ -578,7 +578,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/maths wallpaper.png",     
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/maths wallpaper.png",
       "dimensions":"1800x3900",
-      "collections":"Basics,Dark"
+      "collections":"All,Basics,Dark"
      },
     {
      "name":"v",
@@ -586,7 +586,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vaish.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vaish.png",
       "dimensions":"1800x3900",
-      "collections":"Basics,Dark"
+      "collections":"All,Basics,Dark"
      },
     {
      "name":"One Punch Man B/W",
@@ -594,7 +594,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
      },
     {
      "name":"Popeye",
@@ -602,7 +602,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/popeye.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/popeye.png",
       "dimensions":"1800x3900",
-      "collections":"Cartoons"
+      "collections":"All,Cartoons"
      },
     {
      "name":"One Punch Man",
@@ -610,7 +610,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman1.png",
       "dimensions":"1800x3900",
-      "collections":"Anime"
+      "collections":"All,Anime"
      },
     {
      "name":"Hacker",
@@ -618,7 +618,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
       "dimensions":"1800x3900",
-      "collections":"Vector,Dark"
+      "collections":"All,Vector,Dark"
      },
     {
      "name":"La Casa De Papel",
@@ -626,7 +626,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheistnew.png",
       "dimensions":"1800x3900",
-      "collections":"Web Series"
+      "collections":"All,Web Series"
      },
 
     {
@@ -635,7 +635,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma14.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma14.png",
       "dimensions":"1800x3900",
-      "collections":"Basics,Dark"
+      "collections":"All,Basics,Dark"
      },
     {
      "name":"karma type-2",
@@ -643,7 +643,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma3.png",
       "dimensions":"1800x3900",
-      "collections":"Basics,Dark"
+      "collections":"All,Basics,Dark"
      },
     {
      "name":"karma type-1",
@@ -651,7 +651,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma12.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karma12.png",
       "dimensions":"1800x3900",
-      "collections":"Basics,Dark"
+      "collections":"All,Basics,Dark"
      },
     {
      "name":"Life",
@@ -659,7 +659,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/life.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/life.png",
       "dimensions":"1800x3900",
-      "collections":"Featured,Basics,Dark"
+      "collections":"All,Featured,Basics,Dark"
      },
      {
      "name":"RM-BTS",
@@ -667,7 +667,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/downrmbts.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/downrmbts.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"Shroud",
@@ -675,7 +675,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shroud3.png",
       "dimensions":"1800x3900",
-      "collections":"Games"
+      "collections":"All,Games"
      },
     {
      "name":"Hufflepuff",
@@ -683,7 +683,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hphp.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hphp.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
     {
      "name":"Ravenclawr",
@@ -691,7 +691,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rvhp.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/rvhp.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
     {
      "name":"Slytherin",
@@ -699,7 +699,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/syhp.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/syhp.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
     {
      "name":"Gryffindor",
@@ -707,7 +707,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gfhp.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gfhp.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
     {
      "name":"Devil",
@@ -715,7 +715,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/devil.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/devil.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
     {
      "name":"Unicorn",
@@ -723,7 +723,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unicorn.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unicorn.png",
       "dimensions":"1800x3900",
-      "collections":"Basics,Dark"
+      "collections":"All,Basics,Dark"
      },
     {
      "name":"The Punisher",
@@ -731,7 +731,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thepunisher.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thepunisher.png",
       "dimensions":"1800x3900",
-      "collections":"Web Series,Dark"
+      "collections":"All,Web Series,Dark"
      },
     {
      "name":"Infected",
@@ -739,7 +739,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/infected.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/infected.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"GOKU",
@@ -747,7 +747,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dragonball.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dragonball.png",
       "dimensions":"1800x3900",
-      "collections":"Anime,Dark"
+      "collections":"All,Anime,Dark"
      },
     {
      "name":"Smooth Criminal",
@@ -755,7 +755,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200315_173908.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200315_173908.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Dark"      
+      "collections":"All,Music,Dark"      
      },
     {
      "name":"Joker",
@@ -763,7 +763,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/jokernew.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/jokernew.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
     {
      "name":"Crowded Heart",
@@ -771,7 +771,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hand2-1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hand2-1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Shivaji Maharaj",
@@ -779,7 +779,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shivaji2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shivaji2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,God"
+      "collections":"All,Vector,God"
      },
     {
      "name":"Heart",
@@ -787,7 +787,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heartog.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heartog.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"CS-GO KNIFE", 
@@ -795,7 +795,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200310_172944.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/20200310_172944.png",
       "dimensions":"1800x3900",
-      "collections":"Games,Dark"
+      "collections":"All,Games,Dark"
      },
     {
      "name":"Music is >-<",
@@ -803,7 +803,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/something1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/something1.png",
       "dimensions":"1800x3900",
-      "collections":"Featured,Music,Dark"
+      "collections":"All,Featured,Music,Dark"
      },
     {
      "name":"Aveda Kedavra",
@@ -811,7 +811,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avedakedvra.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avedakedvra.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
      {
      "name":"Android",
@@ -819,7 +819,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/android1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/android1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Kittens",
@@ -827,7 +827,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kitten2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kitten2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
      },
     {
      "name":"Hakuna Matata",
@@ -835,7 +835,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/HM3.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/HM3.jpg",
       "dimensions":"1800x3900",
-      "collections":"Movies,Basics,Dark"
+      "collections":"All,Movies,Basics,Dark"
      },
     {
      "name":"Finger Heart",
@@ -843,7 +843,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hand.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hand.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Americantruck",
@@ -851,7 +851,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Americantruck.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Americantruck.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
      },
      {
      "name":"JUNGKOOK",
@@ -859,7 +859,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjungkook.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"V",
@@ -867,7 +867,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsv.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsv.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"SUGA",
@@ -875,7 +875,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btssuga.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btssuga.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"JIN",
@@ -883,7 +883,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjin.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjin.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"Jimin BTS",
@@ -891,7 +891,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjimin2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsjimin2.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
       },
      {
      "name":"Rm BTS",
@@ -899,7 +899,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RmBts.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/RmBts.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"J-Hope BTS",
@@ -907,7 +907,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jhopebts.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jhopebts.png",
       "dimensions":"1800x3900",
-      "collections":"Music"
+      "collections":"All,Music"
      },
      {
      "name":"Deathly Hallows",
@@ -915,7 +915,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deathlyhallows.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/deathlyhallows.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
      {
      "name":"Harry Potter All ",
@@ -923,7 +923,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrypotter3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrypotter3.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
      },
      {
      "name":"Captain Jack Sparrow",
@@ -931,7 +931,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/jacksparrow.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/jacksparrow.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
      {
      "name":"Om",
@@ -939,7 +939,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/om.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/om.png",
       "dimensions":"1800x3900",
-      "collections":"God,Basics,Dark"
+      "collections":"All,God,Basics,Dark"
      },
      {
      "name":"Pikachu",
@@ -947,7 +947,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/pikachu.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/pikachu.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Cartoon"
+      "collections":"All,Movies,Cartoon"
      },
      {
      "name":"Lets Suit Up",
@@ -955,7 +955,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/pubg.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/pubg.png",
       "dimensions":"1800x3900",
-      "collections":"Games,Dark"
+      "collections":"All,Games,Dark"
      },
      {
      "name":"India",
@@ -963,7 +963,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/india.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/india.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Talking Hat",
@@ -971,7 +971,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/TalkingHat.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/TalkingHat.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Basics,Dark"
+      "collections":"All,Movies,Basics,Dark"
      },
      {
      "name":"Crazy Girl",
@@ -979,7 +979,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/funkygirl2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/funkygirl2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },   
      {
      "name":"Psycho",
@@ -987,7 +987,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/psycho.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/psycho.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Get Lost",
@@ -995,7 +995,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lost.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lost.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Vector Girl",
@@ -1003,7 +1003,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/whitegirl.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/whitegirl.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Light"
+      "collections":"All,Vector,Basics,Light"
      },
      {
      "name":"Hope",
@@ -1011,7 +1011,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hope2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hope2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Welcome to karakin",
@@ -1019,7 +1019,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karakin.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/karakin.png",
       "dimensions":"1800x3900",
-      "collections":"Games"
+      "collections":"All,Games"
      },
     {
      "name":"Heart",
@@ -1027,7 +1027,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/newheart2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/newheart2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Lamborghini",
@@ -1035,7 +1035,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lamborghini.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lamborghini.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Roman reigns",
@@ -1043,7 +1043,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/roman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/roman.png",
       "dimensions":"1800x3900",
-      "collections":"Movies,Dark"
+      "collections":"All,Movies,Dark"
      },
      {
      "name":"Simple Vector",
@@ -1051,7 +1051,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk3.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Just Snap It",
@@ -1059,7 +1059,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/snap.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/snap.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Code For Life",
@@ -1067,7 +1067,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/code.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/code.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Money Heist",
@@ -1075,7 +1075,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheist3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moneyheist3.png",
       "dimensions":"1800x3900",
-      "collections":"Web Series"
+      "collections":"All,Web Series"
      },
      {
      "name":"Thor",
@@ -1083,7 +1083,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/new thor-2.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/new thor-2.jpg",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
      },
      {
      "name":"Captain America",
@@ -1091,7 +1091,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/captainamerica.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/captainamerica.png",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
      },
      {
      "name":"Joker inside Moon",
@@ -1099,7 +1099,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ghost6.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ghost6.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Ninja",
@@ -1107,7 +1107,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Ninja 2",
@@ -1115,7 +1115,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ninja.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Spiderman",
@@ -1123,7 +1123,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/spiderman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/spiderman.png",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
      },
      {
      "name":"Raging Wolf",
@@ -1131,7 +1131,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wolf.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wolf.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {   
      "name":"Venom",
@@ -1139,7 +1139,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
      },
     {
      "name":"Lazy Panda",
@@ -1147,7 +1147,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lazy.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lazy.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"King of the Jungle",
@@ -1155,7 +1155,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"King of the Jungle-2",
@@ -1163,7 +1163,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lion2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Martin Garix",
@@ -1171,7 +1171,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Martin Garix.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Martin Garix.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Dark"
+      "collections":"All,Music,Dark"
      },
      {
      "name":"Burning Ball",
@@ -1179,7 +1179,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/flame1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/flame1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Gym Mood",
@@ -1187,7 +1187,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Gymlight.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Gymlight.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Light"
+      "collections":"All,Vector,Basics,Light"
      },
      {
      "name":"Gym Mood 2",
@@ -1195,7 +1195,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gymdark.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gymdark.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
       {
      "name":"Harry Potter",
@@ -1203,7 +1203,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harry1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harry1.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
      },
     {
      "name":"Selena Gomez",
@@ -1211,7 +1211,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/selena3.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/selena3.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Movies"
+      "collections":"All,Music,Movies"
      },
     {
      "name":"Joker",
@@ -1219,7 +1219,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/joker.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/joker.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
      },
     {
      "name":"Violet Girl",
@@ -1227,7 +1227,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl4.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl4.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Ironman",
@@ -1235,7 +1235,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman.png",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
      },
     {
      "name":"Ironman-2",
@@ -1243,7 +1243,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman1-1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman1-1.png",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"     
+      "collections":"All,SuperHero"     
      },
     {
      "name":"Night city",
@@ -1251,7 +1251,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/nightcity-1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/nightcity-1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Runner",
@@ -1259,7 +1259,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/runner1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/runner1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
      "name":"Expecto Patronum",
@@ -1267,7 +1267,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Harrypotter1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Harrypotter1.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
      },
      {
      "name":"BTS-BAND",
@@ -1275,7 +1275,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/btsband.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"     
+      "collections":"All,Movies"     
      },
      {
      "name":"Purple Girl 2",
@@ -1283,7 +1283,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl5.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl5.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Boat",
@@ -1291,7 +1291,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Boat.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Boat.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Bob Marley",
@@ -1299,7 +1299,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bob2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bob2.png",
       "dimensions":"1800x3900",
-      "collections":"Movies"
+      "collections":"All,Movies"
      },
      {
      "name":"Book",
@@ -1307,7 +1307,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Book1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Rose",
@@ -1315,7 +1315,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Rose.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Rose.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
      {
      "name":"Simple Any 1",
@@ -1323,20 +1323,20 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/uk2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
      },
     {
       "name": "Quote 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Quote1.jpg",
-      "collections": "Quotes"
+      "collections": "All,Quotes"
     },
     {
       "name": "Music 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.jpg",
       "dimensions": "1800x3900",
-      "collections": "Music",
+      "collections": "All,Music",
       "downloadable": true
     },
     {
@@ -1345,7 +1345,7 @@
       "name": "Music 2",
       "dimensions": "1280x720",
       "copyright": "SB",
-      "collections": "Music"
+      "collections": "All,Music"
     },
     {
       "name": "Friends",
@@ -1354,7 +1354,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Web Series"      
+      "collections": "All,Web Series"      
     },
     {
       "name": "Wall 2",
@@ -1363,7 +1363,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vector1.jpg",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Dark"
+      "collections": "All,Dark"
     },
     {
       "name": "Wall 3",
@@ -1372,7 +1372,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall3.png",
       "dimensions": "1280x720",
       "copyright": "SB",
-      "collections": "Dark"
+      "collections": "All,Dark"
     },
     {
       "name": "Harry Potter",
@@ -1381,7 +1381,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harry6.png",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Basics,Vector,Dark"
+      "collections": "All,Basics,Vector,Dark"
     },
      {
       "name": "Face 3",
@@ -1390,7 +1390,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face3.png",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Basics,Vector,Dark"
+      "collections": "All,Basics,Vector,Dark"
     },
     {
       "name": "Goku Orange",
@@ -1399,7 +1399,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/DB1.png",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Anime,Dark"
+      "collections": "All,Anime,Dark"
     },
     {
       "name": "Red Ant",
@@ -1408,7 +1408,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/redspider.png",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Dark,Vector"
+      "collections": "All,Dark,Vector"
     },
     {
       "name": "Assistant Dark",
@@ -1417,7 +1417,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantdark.jpg",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Dark"
+      "collections": "All,Dark"
     },
     {
       "name": "Assistant Light",
@@ -1426,7 +1426,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantlight.jpg",
       "dimensions": "1800x3900",
       "copyright": "SB",
-      "collections": "Light"
+      "collections": "All,Light"
     },
     {
       "name":"Desktop",
@@ -1434,7 +1434,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cleansetup.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cleansetup.jpg",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
       },
     {
       "name":"Ball 1",
@@ -1442,7 +1442,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/BALL1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/BALL1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
     {
       "name":"Avicii",
@@ -1450,7 +1450,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/avicii.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Dark"
+      "collections":"All,Music,Dark"
       },
      {
       "name":"kygo",
@@ -1458,7 +1458,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kygo.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kygo.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Dark"
+      "collections":"All,Music,Dark"
       },
      {
       "name":"Bike 1",
@@ -1466,7 +1466,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
      {
       "name":"Bike 2",
@@ -1474,7 +1474,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bike2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
      {
       "name":"Heart Light",
@@ -1482,7 +1482,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Light"
+      "collections":"All,Vector,Basics,Light"
       },
      {
       "name":"Heart Dark",
@@ -1490,7 +1490,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heart1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
      {
       "name":"Music 3",
@@ -1498,7 +1498,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Dark"       
+      "collections":"All,Music,Dark"       
       },
      {
       "name":"Music 4",
@@ -1506,7 +1506,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.png",
       "dimensions":"1800x3900",
-      "collections":"Music,Dark"
+      "collections":"All,Music,Dark"
       },
      {
       "name":"Tea 1",
@@ -1514,7 +1514,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tea1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tea1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
       },
      {
       "name":"Tea 2",
@@ -1522,7 +1522,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tea2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,"
+      "collections":"All,Vector,Basics,"
       },
      {
       "name":"Blood Dark",
@@ -1530,7 +1530,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Blooddark.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Blooddark.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
     {
       "name":"Blood Light",
@@ -1538,7 +1538,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bloodlight.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Bloodlight.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Light"
+      "collections":"All,Vector,Basics,Light"
       },
     {
       "name":"DoubleX",
@@ -1546,7 +1546,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doubleX.jpg",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doubleX.jpg",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
     {
       "name":"God 1 Dark",
@@ -1554,7 +1554,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshdark.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ganeshdark.png",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
       },
     {
      "name":"God 2",
@@ -1562,7 +1562,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sankar.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sankar.png",
       "dimensions":"1800x3900",
-      "collections":"God"
+      "collections":"All,God"
       },
     {
      "name":"Purple Girl",
@@ -1570,7 +1570,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/girl1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
     {
      "name":"Hazard",
@@ -1578,7 +1578,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hazard1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hazard1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
      {
      "name":"Batman",
@@ -1586,7 +1586,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batman.png",
       "dimensions":"1800x3900",
-      "collections":"SuperHero"
+      "collections":"All,SuperHero"
       },
      {
      "name":"Beardman",
@@ -1594,7 +1594,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/beardman2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/beardman2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,light"
+      "collections":"All,Vector,Basics,light"
       },
      {
      "name":"Be Kind",
@@ -1602,7 +1602,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Be Kind.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Be Kind.png",
       "dimensions":"1800x3900",
-      "collections":"Quotes,Vector,Basics"
+      "collections":"All,Quotes,Vector,Basics"
       },
      {
      "name":"Desktop 2",
@@ -1610,7 +1610,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/desktop2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/desktop2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
       },
      {
      "name":"Clock 1",
@@ -1618,7 +1618,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Clock1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Clock1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
      {
      "name":"Exam Time 1",
@@ -1626,7 +1626,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
       },
      {
      "name":"Exam Time 2",
@@ -1634,7 +1634,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam2.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/exam2.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics"
+      "collections":"All,Vector,Basics"
       },
      {
      "name":"Gentleman",
@@ -1642,7 +1642,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/blackwhiteman.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/blackwhiteman.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
      {
      "name":"Cybertruck",
@@ -1650,7 +1650,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tesla1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/tesla1.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Dark"
+      "collections":"All,Vector,Basics,Dark"
       },
     {
      "name":"Violet Mountain",
@@ -1658,7 +1658,7 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/VioletMountain.png",
       "dimensions":"1800x3900",
-      "collections":"Vector,Basics,Light"      
+      "collections":"All,Vector,Basics,Light"      
      },
     {
      "name":"Friends Couch",
@@ -1666,6 +1666,6 @@
       "url":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends1.png",
       "thumbnail":"https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends1.png",
       "dimensions":"1800x3900",
-      "collections":"Web Series"
+      "collections":"All,Web Series"
      }
    ]
