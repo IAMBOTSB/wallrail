@@ -1352,15 +1352,17 @@
       "name": "Quote 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Quote1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Quote1.jpg",
+      "dimensions": "1800x3900",   
       "collections": "Quotes"
     },
     {
       "name": "Music 1",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music1.jpg",   
       "dimensions": "1800x3900",
-      "collections": "Music",
-      "downloadable": true
+      "collections": "Music"
     },
     {
       "author": "SB",
@@ -1375,8 +1377,7 @@
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/friends.png",
-      "dimensions": "1800x3900",
-      "copyright": "SB",
+      "dimensions": "1800x3900",      
       "collections": "Web Series"      
     },
     {
@@ -1385,7 +1386,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vector1.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vector1.jpg",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Dark"
     },
     {
@@ -1394,7 +1394,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall3.png",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wall3.png",
       "dimensions": "1280x720",
-      "copyright": "SB",
       "collections": "Dark"
     },
     {
@@ -1403,7 +1402,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harry6.png",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harry6.png",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Basics,Vector,Dark"
     },
      {
@@ -1412,7 +1410,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face3.png",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face3.png",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Basics,Vector,Dark"
     },
     {
@@ -1421,7 +1418,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/DB1.png",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/DB1.png",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Anime,Dark"
     },
     {
@@ -1430,7 +1426,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/redspider.png",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/redspider.png",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Dark,Vector"
     },
     {
@@ -1439,7 +1434,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantdark.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantdark.jpg",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Dark"
     },
     {
@@ -1448,7 +1442,6 @@
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantlight.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/assistantlight.jpg",
       "dimensions": "1800x3900",
-      "copyright": "SB",
       "collections": "Light"
     },
     {
