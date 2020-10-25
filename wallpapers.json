@@ -16,19 +16,12 @@
       "collections": "Doodles"
     },
      {
-
      "name": "Garffiti-HipHop",
-
       "author": "SB",
-
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/graffitihiphop.jpg",
-
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/graffitihiphop.jpg",
-
       "dimensions": "1800x3900",
-
       "collections": "Dark,Graffiti"
-
     },
      {
      "name": "Lord Ram",
@@ -517,8 +510,7 @@
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
       "dimensions": "1800x3900",
       "collections": "Movies"
-     },
-    
+     },    
     {
      "name": "Ryuk",
       "author": "SB",
