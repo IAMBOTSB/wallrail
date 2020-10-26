@@ -16,12 +16,36 @@
       "collections": "Doodles"
     },
      {
-     "name": "Garffiti-HipHop",
+     "name": "Quote",
       "author": "SB",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/graffitihiphop.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/graffitihiphop.jpg",
       "dimensions": "1800x3900",
       "collections": "Dark,Graffiti"
+    },
+     {
+     "name": "Quote",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote00.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote00.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark,God"
+    },
+     {
+     "name": "Quote",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote01.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote01.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark,God"
+    },
+     {
+     "name": "Lord-Ram",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote02.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote02.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark,God"
     },
      {
      "name": "Lord-Ram",
