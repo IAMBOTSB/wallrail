@@ -1,19 +1,43 @@
 [
      {
-     "name": "Garffiti-Hope",
-      "author": "SB",
-      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Graffiti1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Graffiti1.jpg",
-      "dimensions": "1800x3900",
-      "collections": "Dark,Graffiti"
-    },
-     {
      "name": "Doodle-Colorfull",
       "author": "VKS",
       "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlecolorful.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlecolorful.jpg",
       "dimensions": "1800x3900",
       "collections": "Doodles"
+    },
+     {
+     "name": "Halloween_1",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo1.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark"
+    },
+     {
+     "name": "Halloween_2",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo2.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark"
+    },
+     {
+     "name": "Halloween_3",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo3.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark"
+    },
+     {
+     "name": "Garffiti-Hope",
+      "author": "SB",
+      "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Graffiti1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Graffiti1.jpg",
+      "dimensions": "1800x3900",
+      "collections": "Dark,Graffiti"
     },
      {
      "name": "Graffiti-HipHop",
