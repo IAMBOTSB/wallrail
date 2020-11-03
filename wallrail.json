@@ -6,14 +6,14 @@
 "collections": "Doodles"
 },
 {
-"name": "Doodle-Colorfull",
-"author": "VKS",
+"name": "WatchDogsLegion",
+"author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wdskull.jpg",
 "collections": "Games"
 },
 {
-"name": "Doodle-Colorfull",
-"author": "VKS",
+"name": "WatchDogsLegion",
+"author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/wdpig.jpg",
 "collections": "Games"
 },
@@ -22,5 +22,59 @@
 "author": "VKS",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack2.jpg",
 "collections": "Doodles"
-}
+},
+{
+"name": "WatchDogsLegion",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/logowd.jpg",
+"collections": "Doodles"
+},
+{
+"name": "Halloween",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo1.jpg",
+"collections": "Dark"
+},
+  {
+"name": "Halloween",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo2.jpg",
+"collections": "Dark"
+},
+  {
+"name": "Halloween",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hallo3.jpg",
+"collections": "Dark"
+},
+{
+"name": "Graffiti-Hope",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Graffiti1.jpg",
+"collections": "Graffiti"
+},
+{
+"name": "Graffiti-HipHop",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/graffitihiphop.jpg",
+"collections": "Graffiti"
+},
+{
+"name": "Quote",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote00.jpg",
+"collections": "Quotes"
+},
+{
+"name": "Quote",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote01.jpg",
+"collections": "Quotes"
+},
+{
+"name": "Quote",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/quote02.jpg",
+"collections": "Quotes"
+},  
 ]
