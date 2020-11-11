@@ -1,5 +1,17 @@
 [
 {
+"name": "Volarant-Jett",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/jett.jpg",
+"collections": "Games"
+},   
+{
+"name": "Guitar",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/guitar.jpg",
+"collections": "Music"
+},  
+{
 "name": "Doodle-Colorfull",
 "author": "VKS",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodlecolorful.jpg",
@@ -27,7 +39,7 @@
 "name": "WatchDogsLegion",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/logowd.jpg",
-"collections": "Doodles"
+"collections": "Games"
 },
 {
 "name": "Halloween",
@@ -279,7 +291,7 @@
 "name": "Uchiha",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/firegun.png",
-"collections": "God"
+"collections": "Anime"
 },
 {
 "name": "Bleeding-Eye",
@@ -296,7 +308,7 @@
 {
 "name": "Kakashi",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kakashilight.jpg",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Kakashilight.jpg",
 "collections": "Anime"
 },
 {
@@ -397,7 +409,7 @@
 },
 {
 "name": "Doremon",
-"author": "SB",
+"author": "VKS",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doremon.png",
 "collections": "Cartoon"
 },
@@ -422,13 +434,13 @@
 {
 "name": "Omen",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.jpg",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/omen.png",
 "collections": "Games"
 },
 {
 "name": "Harry-Potter",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.jpg",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/harrycartoon.png",
 "collections": "Movies"
 },
 {
@@ -439,13 +451,13 @@
 },
 {
 "name": "Shinchan",
-"author": "SB",
+"author": "VKS",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan2.png",
 "collections": "Cartoon"
 },
 {
 "name": "Shinchan",
-"author": "SB",
+"author": "VKS",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/shinchan.png",
 "collections": "Cartoon"
 },
@@ -481,8 +493,8 @@
 },
 {
 "name": "Doodle",
-"author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack",
+"author": "VKS",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/doodleblack.jpg",
 "collections": "Doodles"
 },
 {
@@ -506,7 +518,7 @@
 {
 "name": "OnePunchMan",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchman.png",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/onepunchmanblack.png",
 "collections": "Anime"
 },
 {
@@ -524,7 +536,7 @@
 {
 "name": "Hacker",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.png",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/hacker.jpg",
 "collections": "Dark"
 },
 {
@@ -620,7 +632,7 @@
 {
 "name": "Goku",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dargonball.png",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dragonball.png",
 "collections": "Anime"
 },
 {
@@ -860,14 +872,14 @@
 {
 "name": "Thor",
 "author": "RAM",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/thor-2.jpg",
-"collections": "SuperHero"
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/new thor-2.jpg",
+"collections": "Superhero"
 },
 {
 "name": "Captail-America",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/captainamerica.png",
-"collections": "SuperHero"
+"collections": "Superhero"
 },
 {
 "name": "Joker",
@@ -879,13 +891,13 @@
 "name": "SpiderManLogo",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/spiderman.png",
-"collections": "SuperHero"
+"collections": "Superhero"
 },
 {
 "name": "Venom",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Venom.png",
-"collections": "SuperHero"
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/venom.png",
+"collections": "Superhero"
 },
 {
 "name": "Lazy",
@@ -908,7 +920,7 @@
 {
 "name": "MartinGarix",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Marti Garix.png",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Martin Garix.png",
 "collections": "Dark"
 },
 {
@@ -951,7 +963,7 @@
 "name": "IronMan",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ironman1-1.png",
-"collections": "SuperHero"
+"collections": "Superhero"
 },
 {
 "name": "NightCity",
@@ -1070,7 +1082,7 @@
 {
 "name": "Music",
 "author": "SB",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music3.png",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/music2.png",
 "collections": "Dark"
 },
 {
@@ -1095,7 +1107,7 @@
 "name": "Batman",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batman.png",
-"collections": "SuperHero"
+"collections": "Superhero"
 },
 {
 "name": "Beardman",
