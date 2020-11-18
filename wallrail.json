@@ -1,4 +1,32 @@
 [
+
+
+
+
+
+
+
+
+
+
+{
+"name": "RedmiNote8Pro",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Note8pro.jpg",
+"collections": "Teardown"
+},
+{
+"name": "Nord",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Nord.jpg",
+"collections": "Teardown"
+},
+{
+"name": "K20/K20P",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/K20p.jpg",
+"collections": "Teardown"
+},
 {
 "name": "CyberPunk",
 "author": "SB",
