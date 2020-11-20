@@ -1,5 +1,41 @@
 [
 {
+"name": "Tom-Jerry",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tomnjerry.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "Johnny-Bravo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jonnyb.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "Scooby-Doo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Scooby.jpg",
+"collections": "Teardown"
+},
+{
+"name": "Stranger-Things",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/St1.jpg",
+"collections": "WebSeries"
+},
+{
+"name": "Stranger-Things",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/St2.jpg",
+"collections": "WebSeries"
+},
+{
+"name": "Stranger-Things",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/St3.jpg",
+"collections": "WebSeries"
+},  
+{
 "name": "RedmiNote8Pro",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Note8pro.jpg",
