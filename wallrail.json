@@ -1,5 +1,47 @@
 [
 {
+"name": "Escanor",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/escanor.jpg",
+"collections": "Anime"
+},
+{
+"name": "Csgo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/csgotct.jpg",
+"collections": "Games"
+},
+{
+"name": "Code",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/error1.jpg",
+"collections": "Dark"
+},
+{
+"name": "Csgo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/csgot.jpg",
+"collections": "Games"
+},
+{
+"name": "Code",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/error2.jpg",
+"collections": "Dark"
+},
+{
+"name": "Setup",
+"author": "VKS",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/setup.jpg",
+"collections": "Light"
+},  
+{
+"name": "Code",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/error3.jpg",
+"collections": "Dark"
+},  
+{
 "name": "Csgo",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/csgo.jpg",
@@ -28,13 +70,7 @@
 "author": "RAM",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/superman.jpg",
 "collections": "Superhero"
-},  
-{
-"name": "Setup",
-"author": "VKS",
-"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/setup.jpg",
-"collections": "Light"
-},  
+},    
 {
 "name": "Tom-Jerry",
 "author": "SB",
