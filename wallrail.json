@@ -1,9 +1,39 @@
 [
 {
+"name": "Valorant-Phoenix",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/phonix.jpg",
+"collections": "Games"
+},
+{
+"name": "Valorant-Sage",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sage.jpg",
+"collections": "Games"
+},
+{
+"name": "Zayn",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/zyan.jpg",
+"collections": "Music"
+},
+{
+"name": "Cityscape",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/city1.jpg",
+"collections": "Cityscape"
+},
+{
 "name": "Escanor",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/escanor.jpg",
 "collections": "Anime"
+},  
+{
+"name": "Cityscape",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/city2.jpg",
+"collections": "Cityscape"
 },
 {
 "name": "Csgo",
