@@ -1,5 +1,35 @@
 [
 {
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/depboy.jpg",
+"collections": "Anime"
+},
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/masked.jpg",
+"collections": "Anime"
+},
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kowaii.jpg",
+"collections": "Anime"
+},
+{
+"name": "flash",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/flash.jpg",
+"collections": "Superhero"
+},
+{
+"name": "Batman",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batmany.jpg",
+"collections": "Superhero"
+},
+{
 "name": "Cyberpunk",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp11.jpg",
