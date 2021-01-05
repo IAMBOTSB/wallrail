@@ -1,5 +1,113 @@
 [
 {
+"name": "Dragonball",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vegeta.jpg",
+"collections": "Anime"
+},
+{
+"name": "Dragonball",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gokuu.jpg",
+"collections": "Anime"
+},  
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animmme.jpg",
+"collections": "Anime"
+},  
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animme.jpg",
+"collections": "Anime"
+},   
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dreaml.jpg",
+"collections": "Graffiti"
+},
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dreamd.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/faithl.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/faithd.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/artli.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/artd.jpg",
+"collections": "Graffiti"
+},   
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine1.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine2.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine3.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine4.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine5.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine6.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine7.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine8.jpg",
+"collections": "Games"
+},  
+{
 "name": "Hope",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dep1.jpg",
@@ -33,7 +141,7 @@
 "name": "Life",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/life.jpg",
-"collections": "Grafitti"
+"collections": "Graffiti"
 },
 {
 "name": "Light",
@@ -231,7 +339,7 @@
 "name": "Setup",
 "author": "VKS",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/setup.jpg",
-"collections": "Light"
+"collections": "Dark"
 },  
 {
 "name": "Code",
