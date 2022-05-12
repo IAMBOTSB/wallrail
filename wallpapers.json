@@ -1,5 +1,809 @@
 [
 {
+"name": "Tanjiro",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/redtanjiro.jpg",
+"collections": "Anime"
+},
+{
+"name": "MoonKnight",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moonknightlight.jpg",
+"collections": "Superhero"
+},
+{
+"name": "Tanjiro Light",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/lighttanjiro.jpg",
+"collections": "Anime"
+},
+{
+"name": "MoonKnight night",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/moonnightdark.jpg",
+"collections": "Superhero"
+},
+{
+"name": "Tanjiro Green",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/greentanjiro.jpg",
+"collections": "Anime"
+},  
+{
+"name": "Yoru",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yoru1.jpg",
+"collections": "Games"
+},
+{
+"name": "Yoru",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yoru2.jpg",
+"collections": "Games"
+},
+{
+"name": "Yoru",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yoru3.jpg",
+"collections": "Games"
+},
+{
+"name": "Yoru",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/yoru4.jpg",
+"collections": "Games"
+},
+{
+"name": "Retrocar",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/retrocar.jpg",
+"collections": "Cars"
+},
+{
+"name": "Retrocar",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/retrooutrun.jpg",
+"collections": "Cars"
+},
+{
+"name": "Retrocar",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/retrocar1.jpg",
+"collections": "Cars"
+},
+{
+"name": "Retrocar",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/retrocar2.jpg",
+"collections": "Cars"
+},  
+{
+"name": "Sova",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sova1.jpg",
+"collections": "Games"
+},
+{
+"name": "Sova",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sova2.jpg",
+"collections": "Games"
+},
+{
+"name": "Sova",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sova3.jpg",
+"collections": "Games"
+},
+{
+"name": "Sova",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sova4.jpg",
+"collections": "Games"
+},
+{
+"name": "Sova",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sova5.jpg",
+"collections": "Games"
+},
+{
+"name": "Sova",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sova6.jpg",
+"collections": "Games"
+},  
+{
+"name": "Sai",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sai2.jpg",
+"collections": "God"
+},  
+{
+"name": "Sai",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sai1.jpg",
+"collections": "God"
+},   
+{
+"name": "Unity",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unity1.jpg",
+"collections": "Dark"
+},
+{
+"name": "Unity",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/unity2.jpg",
+"collections": "Light"
+},
+{
+"name": "Heart",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/heartred.jpg",
+"collections": "Dark"
+},  
+{
+"name": "Simple",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/simple1.jpg",
+"collections": "Simple"
+},
+{
+"name": "Simple",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/simple2.jpg",
+"collections": "Simple"
+},  
+{
+"name": "Square",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/square1.jpg",
+"collections": "Simple"
+},
+{
+"name": "Square",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/square2.jpg",
+"collections": "Simple"
+},
+{
+"name": "Square",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/square3.jpg",
+"collections": "Simple"
+},  
+{
+"name": "Viper",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/viper1.jpg",
+"collections": "Games"
+},
+{
+"name": "Viper",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/viper2.jpg",
+"collections": "Games"
+},
+{
+"name": "Viper",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/viper3.jpg",
+"collections": "Games"
+},
+{
+"name": "Viper",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/viper4.jpg",
+"collections": "Games"
+},
+{
+"name": "Viper",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/viper5.jpg",
+"collections": "Games"
+},
+{
+"name": "Viper",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/viper6.jpg",
+"collections": "Games"
+},  
+{
+"name": "circles",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/circle1.jpg",
+"collections": "Simple"
+},
+{
+"name": "circles",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/circle2.jpg",
+"collections": "Simple"
+},
+{
+"name": "circles",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/circle3.jpg",
+"collections": "Simple"
+},  
+{
+"name": "Reyna",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/reyna1.jpg",
+"collections": "Games"
+},
+{
+"name": "Reyna",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/reyna2.jpg",
+"collections": "Games"
+},
+{
+"name": "Reyna",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/reyna3.jpg",
+"collections": "Games"
+},
+{
+"name": "Reyna",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/reyna4.jpg",
+"collections": "Games"
+},
+{
+"name": "Reyna",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/reyna5.jpg",
+"collections": "Games"
+},
+{
+"name": "Reyna",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/reyna6.jpg",
+"collections": "Games"
+},  
+{
+"name": "Chipset",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chip1.jpg",
+"collections": "Dark"
+},
+{
+"name": "Chipset",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chip2.jpg",
+"collections": "Dark"
+},
+{
+"name": "Chipset",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chip3.jpg",
+"collections": "Dark"
+},
+{
+"name": "Chipset",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chip4.jpg",
+"collections": "Dark"
+},
+{
+"name": "Chipset",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chip5.jpg",
+"collections": "Dark"
+},
+{
+"name": "Chipset",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chip6.jpg",
+"collections": "Dark"
+},  
+{
+"name": "BrimeStone",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/brim1.jpg",
+"collections": "Games"
+},
+{
+"name": "BrimeStone",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/brim2.jpg",
+"collections": "Games"
+},
+{
+"name": "BrimeStone",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/brim3.jpg",
+"collections": "Games"
+},
+{
+"name": "BrimeStone",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/brim4.jpg",
+"collections": "Games"
+},
+{
+"name": "BrimeStone",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/brim5.jpg",
+"collections": "Games"
+},
+{
+"name": "BrimeStone",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/brim6.jpg",
+"collections": "Games"
+},  
+{
+"name": "Dragonball",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/vegeta.jpg",
+"collections": "Anime"
+},
+{
+"name": "Dragonball",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/gokuu.jpg",
+"collections": "Anime"
+},  
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animmme.jpg",
+"collections": "Anime"
+},  
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/animme.jpg",
+"collections": "Anime"
+},   
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dreaml.jpg",
+"collections": "Graffiti"
+},
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dreamd.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/faithl.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/faithd.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/artli.jpg",
+"collections": "Graffiti"
+}, 
+{
+"name": "Graffiti",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/artd.jpg",
+"collections": "Graffiti"
+},   
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine1.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine2.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine3.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine4.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine5.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine6.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine7.jpg",
+"collections": "Games"
+},
+{
+"name": "Minecraft",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/mine8.jpg",
+"collections": "Games"
+},  
+{
+"name": "Hope",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dep1.jpg",
+"collections": "Motivation"
+},
+{
+"name": "Hope",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dep2.jpg",
+"collections": "Motivation"
+},
+{
+"name": "Hope",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/dep3.jpg",
+"collections": "Motivation"
+},  
+{
+"name": "WatchDogs",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/ctos.jpg",
+"collections": "Games"
+},
+{
+"name": "Press-F",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/keyboard.jpg",
+"collections": "Dark"
+},
+{
+"name": "Life",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/life.jpg",
+"collections": "Graffiti"
+},
+{
+"name": "Light",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/greenbulb.jpg",
+"collections": "Dark"
+},
+{
+"name": "Binary",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/binary.jpg",
+"collections": "Dark"
+},  
+{
+"name": "Light",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/bulb.jpg",
+"collections": "Dark"
+},
+{
+"name": "Desk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/desk.jpg",
+"collections": "Light"
+},
+{
+"name": "Setup",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/desktop.jpg",
+"collections": "Light"
+},
+{
+"name": "House",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/chouse.jpg",
+"collections": "Cartoon"
+},  
+{
+"name": "South-Park",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/s5.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "South-Park",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/s4.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "South-Park",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/s3.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "South-Park",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/s2.jpg",
+"collections": "Cartoon"
+},  
+{
+"name": "South-Park",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/s1.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/depboy.jpg",
+"collections": "Anime"
+},
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/masked.jpg",
+"collections": "Anime"
+},
+{
+"name": "Anime",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/kawaii.jpg",
+"collections": "Anime"
+},
+{
+"name": "flash",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/flash.jpg",
+"collections": "Superhero"
+},
+{
+"name": "Batman",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/batmany.jpg",
+"collections": "Superhero"
+},
+{
+"name": "Cyberpunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp11.jpg",
+"collections": "Games"
+},
+{
+"name": "Cyberpunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp12.jpg",
+"collections": "Games"
+},
+{
+"name": "Cyberpunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp13.jpg",
+"collections": "Games"
+},
+{
+"name": "Cyberpunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp14.jpg",
+"collections": "Games"
+},
+{
+"name": "Cyberpunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp15.jpg",
+"collections": "Games"
+},
+{
+"name": "Valorant-Raze",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/raze.jpg",
+"collections": "Games"
+},  
+{
+"name": "Valorant-Phoenix",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/phonix.jpg",
+"collections": "Games"
+},
+{
+"name": "Valorant-Sage",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/sage.jpg",
+"collections": "Games"
+},
+{
+"name": "Zayn",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/zyan.jpg",
+"collections": "Music"
+},
+{
+"name": "Cityscape",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/city1.jpg",
+"collections": "Cityscape"
+},
+{
+"name": "Escanor",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/escanor.jpg",
+"collections": "Anime"
+},  
+{
+"name": "Cityscape",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/city2.jpg",
+"collections": "Cityscape"
+},
+{
+"name": "Csgo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/csgotct.jpg",
+"collections": "Games"
+},
+{
+"name": "Code",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/error1.jpg",
+"collections": "Dark"
+},
+{
+"name": "Csgo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/csgot.jpg",
+"collections": "Games"
+},
+{
+"name": "Code",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/error2.jpg",
+"collections": "Dark"
+},
+{
+"name": "Setup",
+"author": "VKS",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/setup.jpg",
+"collections": "Dark"
+},  
+{
+"name": "Code",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/error3.jpg",
+"collections": "Dark"
+},  
+{
+"name": "Csgo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/csgo.jpg",
+"collections": "Games"
+},  
+{
+"name": "Samsung-Note-10+",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Note10+.jpg",
+"collections": "Teardown"
+},
+{
+"name": "Face",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/face.jpg",
+"collections": "Dark"
+},
+{
+"name": "RedmiNote8Pro",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Note8pro.jpg",
+"collections": "Teardown"
+},  
+{
+"name": "Superman",
+"author": "RAM",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/superman.jpg",
+"collections": "Superhero"
+},    
+{
+"name": "Tom-Jerry",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Tomnjerry.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "Johnny-Bravo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Jonnyb.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "Scooby-Doo",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Scooby.jpg",
+"collections": "Cartoon"
+},
+{
+"name": "Stranger-Things",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/St1.jpg",
+"collections": "WebSeries"
+},
+{
+"name": "Stranger-Things",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/St2.jpg",
+"collections": "WebSeries"
+},
+{
+"name": "Stranger-Things",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/St3.jpg",
+"collections": "WebSeries"
+},  
+{
+"name": "RedmiNote8Pro",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Note8pro.jpg",
+"collections": "Teardown"
+},
+{
+"name": "Nord",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/Nord.jpg",
+"collections": "Teardown"
+},
+{
+"name": "K20/K20P",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/K20p.jpg",
+"collections": "Teardown"
+},
+{
+"name": "CyberPunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp4.jpg",
+"collections": "Games"
+},  
+{
+"name": "CyberPunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp2.jpg",
+"collections": "Games"
+},
+{
+"name": "CyberPunk",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/cp3.jpg",
+"collections": "Games"
+},
+{
+"name": "Blocks",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/block1.jpg",
+"collections": "Games"
+},
+{
+"name": "Blocks",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/block2.jpg",
+"collections": "Games"
+},
+{
+"name": "Blocks",
+"author": "SB",
+"url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/block3.jpg",
+"collections": "Games"
+},  
+{
 "name": "Volarant-Jett",
 "author": "SB",
 "url": "https://raw.githubusercontent.com/ssbvpatil/wallrail/master/jett.jpg",
