@@ -1,0 +1,41 @@
+-Overview
+
+WallRail is a Free Wallpaper App for Android which has zero ads and no promotion.
+Basic user data which is used for app functionality like notification and app updates are required.
+Data like device Id and partial location is taken and further its deleted as the user is no longer subscribed to the app.
+Target Audience for this app is 16+. Also this app dont spread any nuidity 
+
+-Google Play Services
+
+Google Play Services offers APIs and security services to the Android developer ecosystem.
+Google acts as a data controller for any personal data processed in Google Play Services,
+and offers user notices and consents about the use of personal data in the service’s user
+interface in Android.
+
+Collected informations:
+* Device information
+* Log information
+* Location information
+* Unique application numbers
+* Local storage
+* Cookies and similar technologies
+
+Google use the collected information to provide, maintain, protect and improve Google's
+services, to develop new ones, and to protect Google and the users. Google also use this
+information to offer you tailored content – like giving you more relevant search results
+and ads.
+
+Online resources:
+* Google Terms of Service      https://policies.google.com/terms
+* Google Privacy Policy        https://policies.google.com/privacy
+
+-One Signal
+
+We use One Signal Free service to push Notifiactions on your device you can real there privacy policy here : https://onesignal.com/privacy_policy
+
+-Contact me
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to
+contact me.
+
+Email Id : ssbvpatil04@gmail.com
